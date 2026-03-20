@@ -26,9 +26,10 @@ Este projeto simula um cliente comprando produtos, registrando a compra no caixa
 
 ## ▶️ Como Executar
 1. Compile o projeto:
-   ```bash
-   mvn clean install
-   ```
+```bash
+mvn clean install
+```
+
 ou, se estiver usando apenas Java:
 ```
 javac com/kauabiscotto/SupermarketSystem/*.java
